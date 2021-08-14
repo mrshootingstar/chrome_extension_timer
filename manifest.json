@@ -1,0 +1,6 @@
+{
+    "name": "shooting star timer",
+    "description": "Simple Timer for Chrome",
+    "version": "1.0",
+    "manifest_version": 3
+}
